@@ -2,7 +2,17 @@
 
 | |
 | :---: |
-| How are you? |
+| How are you? 
+
+# Repository Template
+
+<kbd>[Use this template](https://github.com/paleite/repository-template/generate)</kbd>
+
+- Node 14+
+- TypeScript
+- Jest
+- ESLint
+- Prettier
 
 <!--
 **paleite/paleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
