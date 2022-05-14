@@ -1,9 +1,3 @@
-### Hi there 👋
-
-| |
-| :---: |
-| How are you? 
-
 # Repository Template
 
 <kbd>[Use this template](https://github.com/paleite/repository-template/generate)</kbd>
