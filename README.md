@@ -7,6 +7,7 @@
 # Repository Template
 
 <kbd>[Use this template](https://github.com/paleite/repository-template/generate)</kbd>
+<button>[Use this template](https://github.com/paleite/repository-template/generate)</button>
 
 - Node 14+
 - TypeScript
