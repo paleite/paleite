@@ -1,4 +1,4 @@
-# Repository Template <img src="./use-this-template" />
+# Repository Template <img src="https://raw.githubusercontent.com/paleite/paleite/master/use-this-template.svg" />
 
 - Node 14+
 - TypeScript
