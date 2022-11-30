@@ -2,7 +2,7 @@
 
 <a href="https://github.com/paleite/repository-template/generate"><img src="https://raw.githubusercontent.com/paleite/paleite/master/use-this-template.svg" /></a>
 
-- Node 14+
+- Node 18+
 - TypeScript
 - Jest
 - ESLint
